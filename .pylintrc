@@ -1,0 +1,8 @@
+[MASTER]
+disable=C0114, C0115, C0116, W1203
+
+# Explanation of the codes:
+# C0114: Missing module docstring
+# C0115: Missing class docstring
+# C0116: Missing function or method docstring
+# W1203: logging-fstring-interpolation
